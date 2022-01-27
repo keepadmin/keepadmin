@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keepadmin
 - 👀 I’m interested in building amazing experiences for employees and making them feel valued.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on all things engineering
 - 📫 How to reach me developeradmin@keepfinancial.com
 
 <!---
